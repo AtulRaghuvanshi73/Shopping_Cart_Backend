@@ -3,7 +3,7 @@
 <p>This is a simple shopping cart backend written in C++. The application allows users to add,view and checkout items in their cart.</p>
 
 <h2>Prerequisites</h2>
-<p>Before you can use this application, you will need to have the following installed:</p>
+<p>Before you can use this application,here are some prerequisites before using the program:</p>
 <ol>
   <li>C++ compiler (such as GCC)</li>
   <li>Basic knowledge of C++</li>
